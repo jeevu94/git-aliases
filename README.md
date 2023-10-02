@@ -13,7 +13,7 @@ Common git aliases that I use on a regular basis.
 	name = jeevu94            # replace with your git id.
 
 [alias]
-	# Add
+	# fetch
 	f = fetch --prune --all
 
 	# Add
