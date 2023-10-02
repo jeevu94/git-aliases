@@ -14,6 +14,9 @@ Common git aliases that I use on a regular basis.
 
 [alias]
 	# Add
+	f = fetch --prune --all
+
+	# Add
 	a = add .
 
 	# Diff
