@@ -1,5 +1,5 @@
 # git-aliases
-Common git aliases that I use on a regular basis.
+Common git aliases that I use regularly. (For Windows OS)
 
 **For Windows:-**
   - Open .gitconfig file located at ```'C:\Users\{username}\.gitconfig'``` . Then add the following lines:
